@@ -2,8 +2,8 @@
 
 ## Team Members
 
-Krutik Shah - Student Number: 
-Kourosh Jaberi - Student Number: 1005947362
+Krutik Shah - Student Number: 1006213526  
+Kourosh Jaberi - Student Number: 1005947362  
 
 ## Description and Scope Focus
 
@@ -11,16 +11,15 @@ We plan on building a web application which will allow users to stream what they
 
 ## Complexity Points to Achieve
 
-3pts: Implementation of Pushdown notifications for when new users join a stream
-1pt: The use of Peer.js, which we will use for streaming
-1pt: For the use of screen capture API
-2pts: The use of socket.io, which we will use for initializing the peer connection and emoji reactions (and maybe donations.
-
+3pts: Implementation of Pushdown notifications for when new users join a stream.  
+1pt: The use of Peer.js, which we will use for streaming.  
+1pt: For the use of screen capture API.  
+2pts: The use of socket.io, which we will use for initializing the peer connection and emoji reactions.  
 ## Schedule 
 
 Version          |         Goals Achieved         | Complexity Points                    |
 |----------------|-------------------------------|-----------------------------|
-|Alpha Version   |Basic streaming application    |Peer.js and screen capture: 2pts             |
+|Alpha Version   |Basic streaming application (with completed frontend)    |Peer.js and screen capture: 2pts             |
 |Beta Version    |Incorporate push notifications into application|Pushdown notifications: 3pts |
 |Final Version   |Implement emoji reactions and screen capture|socket.io and more screen capture: 3pts   |
 ```
